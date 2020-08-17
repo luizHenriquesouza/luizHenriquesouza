@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 😃
 
-<!--
-**luizHenriquesouza/luizHenriquesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Luiz Henrique Souza**🇧🇷 e trabalho como técnico de informática desde meados 2014 ( autônomo). No geral mais focado em reparo/manutenção hardware e software. 
+Hoje estou focado e retomando meus estudos pois, tenho o desejo de trabalhar com desenvolvimento front-end web/mobile .
+Sou aluno da **Rocketseat** e estou cursando o **Bootcamp Launchbase**.
 
-Here are some ideas to get you started:
+Em minhas horas vagas, amo estar com a minha família, assistir futebol (sou péssimo jogador mas jogo), games, música, filmes, séries,  trocar idéias ( mesmo que seja só pra encher liguiça hahaha ).
+Ah... sou muito nerd também.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quer trocar uma idéia?
+[
+![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riquelhs)](https://twitter.com/riquelhs)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-henrique-souza-7a9ab57b)](https://www.linkedin.com/in/luiz-henrique-souza-7a9ab57b)
+
