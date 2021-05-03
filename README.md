@@ -12,5 +12,5 @@ Quer trocar uma idéia?
 
 [
 ![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/riquelhs)](https://twitter.com/riquelhs)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-henrique-souza-7a9ab57b)](https://www.linkedin.com/in/luiz-henrique-souza-7a9ab57b)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizhenriquedevfront](https://www.linkedin.com/in/luizhenriquedevfront)
 
