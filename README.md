@@ -10,5 +10,5 @@ Ah... sou muito nerd também.
 Quer trocar uma idéia?
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizhenriquedevfront/)] (https://www.linkedin.com/in/luizhenriquedevfront/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizhenriquedevfront/)](https://www.linkedin.com/in/luizhenriquedevfront/)
 
